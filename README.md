@@ -23,43 +23,47 @@ I'm especially interested in building small study assistant projects to practice
 https://learn.microsoft.com/en-us/shows/intro-to-python-development/
 https://learn.microsoft.com/en-us/shows/more-python-for-beginners/
 https://learn.microsoft.com/en-us/shows/even-more-python-for-beginners-data-tools/
-<h1 align="center">Hi, I'm Ali 👋</h1>
+<h1 align="center">✨ Ali's GitHub Universe ✨</h1>
 
 <p align="center">
-  🔥 Passionate about coding • 🎯 Always learning • 🚀 Future Software Developer
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=AA00FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ali+👋;Welcome+to+my+profile!;Python+Developer+in+Progress+🚀;Always+learning+new+things+🔥">
 </p>
 
 ---
 
-### 🌍 About Me
-- 🎓 Student who loves improving every day  
-- 💻 Beginner Python developer  
-- 🧠 Obsessed with learning new technologies  
-- ✨ Loves clean, simple and creative code  
-- 📚 Working on projects to level up my skills  
-- 🌊 Loves watching the sea  
-- 🍦 Favorite ice cream: lemon & sour cherry  
-- 🐏 Aries personality: energetic & determined  
+## 🔥 About Me  
+- 🧠 Passionate about continuous learning  
+- 🐍 Currently focused on improving my Python fundamentals  
+- 🚀 Determined, consistent, and growth-oriented  
+- 💻 Coding is my long-term journey of self-development  
 
 ---
 
-### 🛠️ Technologies & Tools
-- **Languages:** Python, HTML, Markdown  
-- **Tools:** Git, GitHub, VS Code  
-- **Learning:** Algorithms, OOP, Git workflow  
+## ⚡ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliBesirDilber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alibesirdilber&show_icons=true&theme=radical" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibesirdilber&theme=radical" height="160">
 </p>
 
 ---
 
-### 📫 Contact
-- 📮 Email: **yourmail@example.com**  
-- 💼 Instagram: **your_ig_username**
+## 🌠 Motivation  
+> **"Debugging life, one line at a time."**
+
+---
+
+## 📫 Contact  
+- 📧 **Email:** alibesirdilber@icloud.com  
+- 📸 **Instagram:** [@alibesirdilber99](https://instagram.com/alibesirdilber99)
 📫You can find me on:
 Linkedin: https://www.linkedin.com/in/ali-be%C5%9Fir-dilber-2429a6355/
 📍Türkiye
