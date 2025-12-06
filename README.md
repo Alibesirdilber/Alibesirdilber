@@ -23,51 +23,43 @@ I'm especially interested in building small study assistant projects to practice
 https://learn.microsoft.com/en-us/shows/intro-to-python-development/
 https://learn.microsoft.com/en-us/shows/more-python-for-beginners/
 https://learn.microsoft.com/en-us/shows/even-more-python-for-beginners-data-tools/
-# === ALI BESIR DILBER - NEON SAFE MODE ===
-# This version is optimized for GitHub and will save without errors.
+<h1 align="center">Hi, I'm Ali 👋</h1>
 
-import time, sys, os
+<p align="center">
+  🔥 Passionate about coding • 🎯 Always learning • 🚀 Future Software Developer
+</p>
 
-colors = [
-    "\033[95m", "\033[96m", "\033[92m",
-    "\033[93m", "\033[94m"
-]
-RESET = "\033[0m"
+---
 
-def neon_line(text):
-    for c in colors:
-        sys.stdout.write("\r" + c + text + RESET)
-        sys.stdout.flush()
-        time.sleep(0.12)
-    print("\r" + text + RESET)
+### 🌍 About Me
+- 🎓 Student who loves improving every day  
+- 💻 Beginner Python developer  
+- 🧠 Obsessed with learning new technologies  
+- ✨ Loves clean, simple and creative code  
+- 📚 Working on projects to level up my skills  
+- 🌊 Loves watching the sea  
+- 🍦 Favorite ice cream: lemon & sour cherry  
+- 🐏 Aries personality: energetic & determined  
 
-def neon_slow(text):
-    for ch in text:
-        sys.stdout.write(ch)
-        sys.stdout.flush()
-        time.sleep(0.002)
-    print()
+---
 
-os.system("cls" if os.name == "nt" else "clear")
+### 🛠️ Technologies & Tools
+- **Languages:** Python, HTML, Markdown  
+- **Tools:** Git, GitHub, VS Code  
+- **Learning:** Algorithms, OOP, Git workflow  
 
-# Neon header
-neon_line("==============================================")
-neon_line("      ALI BESIR DILBER - NEON CONSOLE")
-neon_line("==============================================")
+---
 
-print()
-neon_slow("👑 Name: Ali Beşir Dilber")
-neon_slow("📧 Mail: alibesirdilber@icloud.com")
-neon_slow("📸 Instagram: alibesirdilber99")
-print()
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliBesirDilber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-neon_line("Slogan:")
-neon_slow("   debugging life, one line at a time")
+---
 
-print()
-neon_line("==============================================")
-
-print("\n")
+### 📫 Contact
+- 📮 Email: **yourmail@example.com**  
+- 💼 Instagram: **your_ig_username**
 📫You can find me on:
 Linkedin: https://www.linkedin.com/in/ali-be%C5%9Fir-dilber-2429a6355/
 📍Türkiye
