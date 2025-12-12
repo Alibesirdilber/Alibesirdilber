@@ -1,19 +1,30 @@
 Hi there 👋
 
-I'm Ali! I'm just getting started with software development and I'm currently learning Python.
-I'm especially interested in building small study assistant projects to practice and improve my skills.
+I’m Ali! I’m just getting started with software development.
+I’m currently learning Python, and I also have experience with C programming and Arduino (C-based) projects.
+I enjoy building small helper tools and simple automation projects to improve my skills.
+
+⸻
 
 🌱 Currently Learning
--Python fundamentals
--Algorithms & problem-solving
--Simple automation and helper applications
+	•	Python fundamentals
+	•	Algorithms & problem-solving
+	•	Basic C programming
+	•	Arduino with C
+	•	Simple automation and helper applications
 
-🔭 What I'm Working On
--My own study assistant project
+⸻
+
+🔧 What I’m Working On
+	•	My own study-assistant project
+	•	Small Arduino + C practice projects
+
+⸻
 
 🤝 Open to Collaborations
--Beginner-friendly Python projects
--Learning-focused mini applications
+	•	Beginner-friendly Python projects
+	•	Learning-focused mini applications
+	•	Simple Arduino/C hardware projects
 
 💬 Ask Me About
 -Python learning resources
