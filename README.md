@@ -35,7 +35,8 @@ https://learn.microsoft.com/en-us/shows/even-more-python-for-beginners-data-tool
 - 🧠 Passionate about continuous learning  
 - 🐍 Currently focused on improving my Python fundamentals  
 - 🚀 Determined, consistent, and growth-oriented  
-- 💻 Coding is my long-term journey of self-development  
+- 💻 Coding is my long-term journey of self-development
+- I mainly work with the C programming language
 
 ---
 
